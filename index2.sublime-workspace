@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-r",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/项目页面/error/index.html",
+		"/C/Users/Administrator/Desktop/项目页面/error/css/error.css",
+		"/C/Users/Administrator/Desktop/项目历史/交存条件_list.jsp",
+		"/C/Users/Administrator/Desktop/style.min.css",
+		"/C/Users/Administrator/Desktop/项目历史/维修资金转账.jsp",
+		"/F/miniui_net/demo/datagrid/sorticon.html",
+		"/C/Users/Administrator/Desktop/pd-b325b442-2d95-11e4-8b02-000c29f61318/CustomDropDownListStyling/index3.html",
+		"/C/Users/Administrator/Desktop/pd-b325b442-2d95-11e4-8b02-000c29f61318/CustomDropDownListStyling/index5.html",
+		"/C/Users/Administrator/Desktop/jQueryViewer20160329/index2.html",
+		"/C/Users/Administrator/Desktop/项目历史/3.12/addRcorpinfo.jsp",
+		"/C/Users/Administrator/Downloads/jq22jQueryViewer73520160329/jQueryViewer20160329/index2.html",
+		"/F/miniui_net/demo/datagrid/rowedit.html",
+		"/F/miniui_net/demo/datagrid/datagrid.html",
+		"/F/miniui_net/demo/datagrid/detailgrid.html",
+		"/F/miniui_net/demo/datagrid/setcolumns.html",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/error/index.html",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/error/css/error.css",
+		"/C/Users/Administrator/Desktop/pd-b325b442-2d95-11e4-8b02-000c29f61318/CustomDropDownListStyling/index.html",
+		"/C/Users/Administrator/Desktop/pd-b325b442-2d95-11e4-8b02-000c29f61318/CustomDropDownListStyling/js/modernizr.custom.79639.js",
+		"/C/Users/Administrator/Desktop/camera/demo.html",
+		"/F/miniui_net/demo/datagrid/sorting_client.html",
+		"/F/miniui_net/demo/datagrid/sorting.html",
+		"/F/miniui_net/demo/datagrid/sorting_multi.html",
+		"/F/miniui_net/demo/datagrid/inline_detailgrid.html",
+		"/F/miniui_net/demo/datagrid/gridlines.html",
+		"/C/Users/Administrator/Desktop/项目历史/流程管理.jsp",
+		"/C/Users/Administrator/Desktop/GridManager/js/GridManager.js",
+		"/C/Users/Administrator/Desktop/jquery-enlargement879920160816/jquery-enlargement20160816/index.html",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/terminalpb.jsp",
+		"/C/Users/Administrator/Desktop/jquery相册轮播1/with-jquery.html",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/MobileFile/demo_跨域弹框.html",
+		"/C/Users/Administrator/Desktop/jQuery Lightbox图片放大预览代码/index.html",
+		"/C/Users/Administrator/Desktop/jquey相册轮播/with-jquery.html",
+		"/C/Users/Administrator/Desktop/jquey相册轮播/no-jquery.html",
+		"/C/Users/Administrator/Desktop/jquey相册轮播/index.html",
+		"/C/Users/Administrator/Desktop/flexigrid/README.md",
+		"/C/Users/Administrator/Desktop/jiaoben2082/index.html",
+		"/C/Users/Administrator/Desktop/jquery带缩略图的图片自动轮播/js/index.js",
+		"/C/Users/Administrator/Desktop/jquery带缩略图的图片自动轮播/index.html",
+		"/C/Users/Administrator/demo/src/routes/IndexPage.css",
+		"/C/Users/Administrator/Desktop/xcConfirm-150317204828/index.html",
+		"/C/Users/Administrator/demo/src/routes/IndexPage.js",
+		"/C/Users/Administrator/demo/src/services/example.js",
+		"/C/Users/Administrator/demo/src/router.js",
+		"/C/Users/Administrator/demo/src/components/Login.js",
+		"/C/Users/Administrator/demo/src/index.js",
+		"/C/Users/Administrator/demo/src/routes/Login.js",
+		"/C/Users/Administrator/demo/src/models/example.js",
+		"/C/Users/Administrator/demo/src/components/Example.js",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/cellverify.jsp",
+		"/C/Users/Administrator/demo/src/routes/Login",
+		"/F/jiaoben2004/index.html",
+		"/C/Users/Administrator/Desktop/表格插件/datatables.html",
+		"/C/Users/Administrator/Desktop/网站/AdminLTE-2.4.2/index.html",
+		"/C/Users/Administrator/Desktop/网站/AdminLTE-2.4.2/pages/mailbox/mailbox.html",
+		"/C/Users/Administrator/Desktop/GridManager/demo/demo2.html",
+		"/C/Users/Administrator/Desktop/网站/AdminLTE-2.4.2/pages/forms/general.html",
+		"/C/Users/Administrator/Desktop/网站/AdminLTE-2.4.2/pages/tables/data.html",
+		"/C/Users/Administrator/Desktop/网站/hplus/index_v1.html",
+		"/C/Users/Administrator/Desktop/项目历史/111",
+		"/C/Users/Administrator/Desktop/GridManager/demo/demo5.html",
+		"/C/Users/Administrator/Desktop/GridManager/demo/demo4.html",
+		"/C/Users/Administrator/Desktop/GridManager/demo/demo1.html",
+		"/C/Users/Administrator/Desktop/GridManager/demo/index.html",
+		"/C/Users/Administrator/Desktop/项目历史/list (2).jsp",
+		"/C/Users/Administrator/Desktop/项目历史/list.jsp",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/test.jsp",
+		"/C/Users/Administrator/Desktop/全屏轮播图/index.html",
+		"/C/Users/Administrator/Desktop/全屏轮播图/js/swiper-2.1.min.js",
+		"/C/Users/Administrator/Desktop/全屏轮播图/js/index.js",
+		"/C/Users/Administrator/Desktop/轮播图/index.html",
+		"/C/Users/Administrator/Desktop/strom20150806/index.html",
+		"/C/Users/Administrator/Desktop/jiaoben5589/index.html",
+		"/C/Users/Administrator/Desktop/list.jsp",
+		"/C/Users/Administrator/Desktop/ajaxsvr/WebContent/js/jquery.easyui.min.js",
+		"/C/Users/Administrator/Documents/WeChat Files/weixiao7603/Files/登录页面+主界面+欢迎页demo（4级菜单）/WebContent/views/main/index.html",
+		"/C/Users/Administrator/Desktop/AdminLTE-deMo2.4.2/AdminLTE-2.4.2/bower_components/chart.js/gulpfile.js",
+		"/C/Users/Administrator/Desktop/jq228689.html",
+		"/C/Users/Administrator/Desktop/taccounts.jsp",
+		"/C/Users/Administrator/Desktop/lamu/js/topad.js",
+		"/C/Users/Administrator/Desktop/AdminLTE-deMo2.4.2/AdminLTE-2.4.2/bower_components/chart.js/Chart.js",
+		"/C/Users/Administrator/Desktop/iframe/b/customer.html",
+		"/C/Users/Administrator/Desktop/AdminLTE-deMo2.4.2/AdminLTE-2.4.2/bower_components/chart.js/.travis.yml",
+		"/C/Users/Administrator/Desktop/iframe/b/execB.html",
+		"/C/Users/Administrator/Desktop/ServerletWeb/WebRoot/WEB-INF/web.xml",
+		"/C/Users/Administrator/Desktop/ServerletWeb/src/com/northwind/actions/UserAction.java",
+		"/C/tomcat/apache-tomcat-7.0.77/conf/server.xml",
+		"/C/Users/Administrator/Desktop/spring-framework-3.2.0.RELEASE/docs/javadoc-api/org/springframework/web/bind/annotation/RequestMapping.html",
+		"/C/Users/Administrator/Desktop/WebChat/Client/MutilChat/js/chat.js",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/ROOT/demo_camera/demo3.html",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/jsdp/WEB-INF/web.xml",
+		"/C/tomcat/apache-tomcat-7.0.77/conf/web.xml",
+		"/C/Users/Administrator/Desktop/WebChat/Client/MutilChat/index.html",
+		"/C/Users/Administrator/Desktop/AdminLTE-deMo2.4.2/AdminLTE-2.4.2/dist/js/demo.js",
+		"/C/Users/Administrator/Desktop/AdminLTE-deMo2.4.2/AdminLTE-2.4.2/dist/js/pages/dashboard.js",
+		"/C/Users/Administrator/Desktop/AdminLTE-deMo2.4.2/AdminLTE-2.4.2/dist/js/adminlte.js",
+		"/C/Users/Administrator/Desktop/jQuery-webcam-master/index.html",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/ROOT/demo_camera/jquery.webcam.js",
+		"/C/Users/Administrator/Desktop/html-master/LICENSE.md",
+		"/C/Users/Administrator/Desktop/inverter-master/README.md",
+		"/C/Users/Administrator/Desktop/inverter-master/config.xml",
+		"/C/Users/Administrator/Desktop/inverter-master/config/.csscomb.json",
+		"/C/Users/Administrator/Desktop/inverter-master/Gruntfile.js",
+		"/C/Users/Administrator/Desktop/inverter-master/.gitignore",
+		"/C/Users/Administrator/Desktop/inverter-master/MIT-LICENSE",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/demo_camera/WEB-INF/web.xml",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/demo/WEB-INF/web.xml",
+		"/C/tomcat/apache-tomcat-7.0.77/conf/tomcat-users.xml",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/ROOT/WEB-INF/web.xml",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/examples/WEB-INF/web.xml",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/hfmpV8/WEB-INF/web.xml",
+		"/C/tomcat/apache-tomcat-7.0.77/conf/context.xml",
+		"/C/tomcat/apache-tomcat-7.0.77/webapps/manager/WEB-INF/web.xml",
+		"/C/Users/Administrator/Desktop/表单/BeginnerAdmin/form.html",
+		"/C/Users/Administrator/Desktop/hplus/form_basic.html",
+		"/C/Users/Administrator/Desktop/hplus/form_advanced.html",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/MobileFile/nav_judge.js",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/MobileFile/index(2).html",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/MobileFile/main(1).js",
+		"/C/Users/Administrator/Documents/Tencent Files/1725034682/FileRecv/MobileFile/starter.html",
+		"/C/Users/Administrator/Desktop/AdminLTE-deMo2.4.2/AdminLTE-2.4.2/starter.html",
+		"/C/Users/Administrator/Desktop/DP-PRO开发框架.html",
+		"/C/Users/Administrator/Desktop/主页.html",
+		"/C/Users/Administrator/Desktop/leftmeu.txt",
+		"/C/Users/Administrator/Desktop/22",
+		"/C/Users/Administrator/Desktop/form.html",
+		"/C/Users/Administrator/Desktop/123.html",
+		"/C/Users/Administrator/Desktop/main(12.15).jsp"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sidebar-menu",
+			"side-menu",
+			"#side-menu",
+			"dropdown-menu",
+			"remove()",
+			".remove()",
+			"remove()",
+			"remove",
+			"Data Tables",
+			"searchRcorpinfo",
+			"batchAccounts",
+			"pageSize",
+			"setQuery",
+			"_query",
+			"date",
+			"_0x38f7af[_0xcd22('0x45')]['init']();",
+			"Modal Examples",
+			"Dashboard",
+			"Blue",
+			"Skins",
+			"Layout Options",
+			"<aside class=\"control-sidebar",
+			".m-t-n-xs {\n	margin-top: -5px;\n}",
+			".float-e-margins .btn { /* margin-bottom: 5px; */\n	\n}",
+			"@media ( max-width : 1000px) {\n	.form-control {\n		display: block;\n		width: 100%;\n		height: 30px;\n		padding: 6px 12px;\n		font-size: 12px;\n		line-height: 1.2;\n		color: #000;\n		background-color: #fff;\n		background-image: none;\n		border: 1px solid #ccc;\n		border-radius: 4px;\n		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);\n		box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);\n		-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow\n			ease-in-out .15s;\n		-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out\n			.15s;\n		transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;\n		margin: 0 0 10px 0;\n	}\n}",
+			"@media ( max-width : 1000px) {\n	.ibox-title {",
+			"@media ( max-width : 1000px) {\n	.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9\n		{\n		position: relative;\n		min-height: 1px;\n		padding-right: 14px;\n		padding-left: 14px;\n	}\n}",
+			"@media ( max-width : 1000px) {\n	body {\n		font-family: \"Helvetica Neue\", Helvetica, Tahoma, Arial,\n			\"Microsoft Yahei\", \"Hiragino Sans GB\", \"WenQuanYi Micro Hei\",\n			sans-serif;\n		font-size: 12px;\n		line-height: 1.3;\n		color: #76838f;\n		background-color: #fff;\n	}\n}",
+			"@media ( max-width : 1000px) {\n	::-webkit-scrollbar {\n		width: 6px;\n		background-color: #F5F5F5;\n	}\n}\n\n@media ( max-width : 1000px) {\n	::-webkit-scrollbar-thumb {\n		background-color: #999;\n	}\n}\n\n@media ( max-width : 1000px) {\n	::-webkit-scrollbar-track {\n		background-color: #F5F5F5;\n	}\n}",
+			"@media ( min-width : 992px) {\n	.form-horizontal .control-label {\n		padding-top: 7px;\n		text-align: right;\n		font-weight: 500;\n	}\n}",
+			"@media ( min-width : 992px) {\n	.form-horizontal .control-label {\n		padding-top: 7px;\n		text-align: right;\n		font-weight: 500;\n	}\n}\n",
+			"@media ( min-width : 992px) {\n	.ibox-title h3,.ibox-content h3 {\n		font-size: 16px;\n		font-weight: 500;\n		color: #000;\n	}\n}",
+			"@media ( min-width : 992px) {\n	.ibox-title {\n		-moz-border-bottom-colors: none;\n		-moz-border-left-colors: none;\n		-moz-border-right-colors: none;\n		-moz-border-top-colors: none;\n		background-color: #fff;\n		border-color: #e7eaec;\n		-webkit-border-image: none;\n		-o-border-image: none;\n		border-image: none;\n		/* border-style: solid solid none; */\n		border-width: 4px 0 0;\n		color: inherit;\n		margin-bottom: 0;\n		min-height: 28px;\n	}\n}",
+			".ibox {\n	clear: both;\n	margin-bottom: 25px;\n	margin-top: 0;\n	background: #f1f4f5;\n}",
+			".pagination>.active>a,.pagination>.active>a:focus,.pagination>.active>a:hover,.pagination>.active>span,.pagination>.active>span:focus,.pagination>.active>span:hover\n	{\n	background-color: #f4f4f4;\n	border-color: #DDD;\n	color: inherit;\n	cursor: default;\n	z-index: 2;\n}",
+			"a {\n	cursor: pointer;\n}",
+			".pagination>li>a,.pagination>li>span {\n	background-color: #FFF;\n	border: 1px solid #DDD;\n	color: inherit;\n	float: left;\n	line-height: 1.42857;\n	margin-left: -1px;\n	padding: 4px 10px;\n	position: relative;\n	text-decoration: none;\n}",
+			"@media ( min-width : 992px) {\n	.input-sm {\n		height: 30px;\n		padding: 5px 10px;\n		font-size: 12px;\n		line-height: 1.5;\n		border-radius: 3px;\n	}\n}",
+			"@media ( min-width : 992px) {\n	.form-control {\n		display: block;\n		width: 100%;\n		height: 34px;\n		padding: 6px 12px;\n		font-size: 14px;\n		line-height: 1.42857143;\n		color: #555;\n		background-color: #fff;\n		background-image: none;\n		border: 1px solid #ccc;\n		border-radius: 4px;\n		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);\n		box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);\n		-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow\n			ease-in-out .15s;\n		-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out\n			.15s;\n		transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;\n		margin: 0 0 10px 0;\n	}\n}",
+			"@media ( min-width : 992px) {\n	.input-sm {\n		height: 27px;\n		line-height: 27px;\n	}\n}",
+			"@media ( min-width : 1200px) {\n	.input-sm {\n		height: 30px;\n		padding: 5px 10px;\n		font-size: 12px;\n		line-height: 1.5;\n		border-radius: 3px;\n	}\n}",
+			"@media ( min-width : 1200px) {\n	.form-control {\n		display: block;\n		width: 100%;\n		height: 34px;\n		padding: 6px 12px;\n		font-size: 14px;\n		line-height: 1.42857143;\n		color: #000;\n		background-color: #fff;\n		background-image: none;\n		border: 1px solid #ccc;\n		border-radius: 4px;\n		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);\n		box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);\n		-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow\n			ease-in-out .15s;\n		-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out\n			.15s;\n		transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;\n		margin: 0 0 10px 0;\n	}\n}",
+			"@media ( min-width : 1200px) {\n	.table>tbody>tr>td,.table>tfoot>tr>td,.table>thead>tr>td {\n		padding: 6px;\n		line-height: 1.6;\n		vertical-align: top;\n		border-top: 1px solid #e4eaec;\n		font-size: 14px;\n		text-align: left;\n		color: #000;\n	}\n}",
+			"table.dataTable thead .sorting,table.dataTable thead .sorting_asc:after,table.dataTable thead .sorting_asc_disabled,table.dataTable thead .sorting_desc,table.dataTable thead .sorting_desc_disabled\n	{ /* background: 0 0; */\n	\n}",
+			"@media ( min-width : 992px) {\n	.table>tbody>tr>th,.table>tfoot>tr>th,.table>thead>tr>th {\n		padding: 6px;\n		line-height: 1.2;\n		vertical-align: top;\n		border-top: 1px solid #e4eaec;\n		font-size: 12px;\n		text-align: center;\n	}\n}",
+			"@media ( min-width : 1200px) {\n	.table>tbody>tr>th,.table>tfoot>tr>th,.table>thead>tr>th {\n		padding: 6px;\n		line-height: 1.6;\n		vertical-align: top;\n		border-top: 1px solid #e4eaec;\n		font-size: 14px;\n		text-align: center;\n	}\n}",
+			".table-bordered>thead>tr>td,.table-bordered>thead>tr>th {\n	background-color: #F5F5F6;\n}",
+			".table>thead>tr>th {\n	border-bottom: 1px solid #DDD;\n}",
+			".table>tbody>tr>th,.table>tfoot>tr>th,.table>thead>tr>th {\n	font-weight: 500;\n	color: #666;\n	vertical-align: middle;\n}",
+			".btn {\n	border-radius: 3px;\n}",
+			".btn-primary {\n	background-color: #4fb4bf;\n	border-color: #4fb4bf;\n	color: #FFF;\n}",
+			".fr {\n	float: right;\n	padding-right: 10px;\n}",
+			".ibox-content {\n	background-color: #fff;\n	color: inherit;\n	padding: 15px 20px 20px;\n	border-color: #e7eaec;\n	-webkit-border-image: none;\n	-o-border-image: none;\n	border-image: none;\n	border-style: solid solid none;\n	border-width: 1px 0;\n}",
+			".ibox-content {\n	clear: both;\n}",
+			"h1,h2,h3,h4,h5,h6 {\n	font-weight: 100;\n}",
+			"h3 {\n	font-size: 16px;\n}",
+			"h3,h4,h5 {\n	margin-top: 5px;\n	font-weight: 600;\n}",
+			"@media ( min-width : 1200px) {\n	.ibox-title h3,.ibox-content h3 {\n		font-size: 16px;\n		font-weight: 500;\n	}\n}",
+			".ibox-content h1,.ibox-content h2,.ibox-content h3,.ibox-content h4,.ibox-content h5,.ibox-title h1,.ibox-title h2,.ibox-title h3,.ibox-title h4,.ibox-title h5\n	{\n	margin-top: 5px;\n}",
+			"@media ( min-width : 1200px) {\n	.wrapper-content {\n		padding: 20px;\n	}\n}",
+			".wrapper {\n	padding: 0 20px;\n}\n",
+			"body {\n	font-family: \"Helvetica Neue\", Helvetica, Tahoma, Arial,\n		\"Microsoft Yahei\", \"Hiragino Sans GB\", \"WenQuanYi Micro Hei\",\n		sans-serif;\n	font-size: 14px;\n	line-height: 1.6;\n	color: #76838f;\n	background-color: #fff;\n}\n",
+			"@media ( min-width : 992px) {\n	body {\n		font-family: \"Helvetica Neue\", Helvetica, Tahoma, Arial,\n			\"Microsoft Yahei\", \"Hiragino Sans GB\", \"WenQuanYi Micro Hei\",\n			sans-serif;\n		font-size: 12px;\n		line-height: 1.3;\n		color: #76838f;\n		background-color: #fff;\n	}\n}\n",
+			"@media ( min-width : 1200px) {\n	body {\n		font-family: \"Helvetica Neue\", Helvetica, Tahoma, Arial,\n			\"Microsoft Yahei\", \"Hiragino Sans GB\", \"WenQuanYi Micro Hei\",\n			sans-serif;\n		font-size: 14px;\n		line-height: 1.6;\n		color: #76838f;\n		background-color: #fff;\n	}\n}",
+			"body {\n	font-family: \"open sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n	color: #676a6c;\n	overflow-x: hidden;\n}",
+			"body,body.full-height-layout #page-wrapper,body.full-height-layout #wrapper,html\n	{\n	height: 100%;\n}",
+			".gray-bg {\n	background-color: #FFFFFF;\n}",
+			"J_menuItem",
+			"collapse_menu",
+			"sidebard-panel",
+			"side-menu",
+			"Widgets ",
+			"Widets",
+			"widet",
+			"Dashboard"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"removeElement(this)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index2.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
